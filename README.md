@@ -1,4 +1,15 @@
-#	Hi I'm Jerald
-This is a repo for beginning your Node js **Express** application with **Mongo** database template.
+# express-graph
 
-you can change the DataBase connection in ***configs/index.js***
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun dev
+```
+
+This project was created using `bun init` in bun v1.1.6. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
