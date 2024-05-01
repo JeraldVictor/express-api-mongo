@@ -1,4 +1,4 @@
-# express-graph
+# Node Bun Express MongoDB REST API
 
 To install dependencies:
 
